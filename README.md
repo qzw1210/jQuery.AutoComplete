@@ -18,5 +18,3 @@ jQuery.AutoComplete是一个基于jQuery的自动补全插件。借助于jQuery�
 * 支持异步处理。
 * 支持错误调试。
 
-演示地址：http://autocomplete.jiani.info/demo/    
-文档地址：http://autocomplete.jiani.info/doc/  
